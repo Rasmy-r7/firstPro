@@ -9,6 +9,6 @@ int factorial(int i)
 }
 int main()
 {
-	printf("Factorial : %d\n",factorial(5));
+	printf("Factorial : %d\n",factorial(10));
 	return 0;
 }
